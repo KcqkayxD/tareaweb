@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // ===== BOTÓN FLOTANTE WHATSAPP =====
-    const whatsappNumber = '51999999999'; // Reemplazar por número real en formato internacional sin +
+    const whatsappNumber = '56955198638'; 
     const whatsappMessage = 'Hola, quiero más información sobre sus servicios.';
     const whatsappUrl = 'https://wa.me/' + whatsappNumber + '?text=' + encodeURIComponent(whatsappMessage);
 
